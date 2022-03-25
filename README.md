@@ -18,6 +18,7 @@
       IA --> M(Mentoring);
       M --> SRI(NSP Ski/Ride Instructor);
       subgraph PSIA
+      
       subgraph Alpine
       subgraph Alpine-Level-1
       L1W(Level 1 Written) --> L1E(Level 1 Ski/Teach Exam);
@@ -60,6 +61,7 @@
       end
       
       end
+      
       L2C --> M;
       BL2C --> M;
       TL2C --> M;
