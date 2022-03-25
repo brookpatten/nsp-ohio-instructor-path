@@ -67,8 +67,8 @@
       AP -.-> BL1W;
       AP -.-> TL1W;
 
-      M --> ADSW(ADSW Ski/Ride Calibration);
-      M --> SH(Mentor/Shadow 2 Senior Ski/Ride Tests);
+      SRI --> ADSW(ADSW Ski/Ride Calibration);
+      SRI --> SH(Mentor/Shadow 2 Senior Ski/Ride Tests);
       subgraph Senior-Evaluator
       ADSW --> SS(Senior Ski/Ride Evaluator);
       SH --> SS;
