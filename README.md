@@ -1,6 +1,6 @@
 ```mermaid
   flowchart LR;
-      AP((Alpine Patroller)) --> Senior;
+      AP((Alpine Patroller)) --> SPA;
       subgraph Senior
       SPA(Senior Application) --> SOEC(Senior OEC);
       SPA --> SE(Senior Electives SES,TES,ID,FEMA);
@@ -12,7 +12,7 @@
       ST --> SP;
       end
       SE -.-> ID;
-      Senior --> M;
+      SP --> M;
       AP --> ID(Instructor Development);
       ID --> IA(Ski/Ride Instructor Application);
       IA --> M(Shadowing);
