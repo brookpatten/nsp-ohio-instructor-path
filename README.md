@@ -20,7 +20,7 @@
       
       subgraph PSIA-Alpine
       subgraph Alpine-Level-1
-      L1W(Level 1 Written) --> L1E(Level 1 Ski/Teach Exam);
+      L1W(Level 1 eLearning Course) --> L1E(Level 1 Ski/Teach Exam);
       L1E --> L1C(Level 1);
       end
       L1C --> L2W;
