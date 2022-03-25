@@ -16,7 +16,7 @@
       SP --> M;
       AP --> ID(Instructor Development);
       ID --> IA(Instructor Application);
-      IA --> M(Mentoring);
+      IA --> M(Shadowing);
       M --> SRI(NSP Ski/Ride Instructor);
       
       subgraph PSIA-Alpine
