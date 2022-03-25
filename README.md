@@ -74,8 +74,8 @@
       SH --> SS;
       end
       
-      subgraph Toboggan
       IA --> MA(Mentor Assigned);
+      subgraph Toboggan
       MA --> OE(Observed and Evaluated with Mentor 2X);
       OE --> IT(Observed and Evaluated by Area IT);
       IT --> TTW(Observed teaching a TTW or TES );
