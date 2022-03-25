@@ -14,7 +14,7 @@
       SE -.-> ID;
       SP --> M;
       AP --> ID(Instructor Development);
-      ID --> IA(Instructor Application);
+      ID --> IA(Ski/Ride Instructor Application);
       IA --> M(Shadowing);
       M --> SRI(NSP Ski/Ride Instructor);
       
