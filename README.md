@@ -17,9 +17,8 @@
       ID --> IA(Instructor Application);
       IA --> M(Mentoring);
       M --> SRI(NSP Ski/Ride Instructor);
-      subgraph PSIA
       
-      subgraph Alpine
+      subgraph PSIA-Alpine
       subgraph Alpine-Level-1
       L1W(Level 1 Written) --> L1E(Level 1 Ski/Teach Exam);
       L1E --> L1C(Level 1);
@@ -34,7 +33,7 @@
       end
       end
       
-      subgraph Snowboard
+      subgraph PSIA-Snowboard
       subgraph Snowboard-Level-1
       BL1W(Level 1 eLearning Course) --> BL1E(Level 1 Ride/Teach Exam);
       BL1E --> BL1C(Level 1);
@@ -48,7 +47,7 @@
       end
       end
 
-      subgraph Telemark
+      subgraph PSIA-Telemark
       subgraph Telemark-Level-1
       TL1W(Level 1 eLearning Course) --> TL1E(Level 1 Ski/Teach Exam);
       TL1E --> TL1C(Level 1);
@@ -60,7 +59,6 @@
       end
       end
       
-      end
       
       L2C --> M;
       BL2C --> M;
