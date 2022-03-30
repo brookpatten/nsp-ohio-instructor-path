@@ -83,4 +83,14 @@
       end
       
       style Toboggan fill:#f9f;
+      style Senior-Evaluator fill:#f9f;
+      style PSIA-Telemark fill:#0099ff;
+      style Telemark-Level-1 fill:#0066ff;
+      style Telemark-Level-2 fill:#0066ff;
+      style PSIA-Snowboard fill:#0099ff;
+      style Snowboard-Level-1 fill:#0066ff;
+      style Snowboard-Level-2 fill:#0066ff;
+      style PSIA-Alpine fill:#0099ff;
+      style Alpine-Level-1 fill:#0066ff;
+      style Alpine-Level-2 fill:#0066ff;
 ```
