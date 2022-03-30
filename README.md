@@ -90,9 +90,9 @@
       style PSIA-Snowboard fill:#03734d;
       style Snowboard-Level-1 fill:#3fb68e;
       style Snowboard-Level-2 fill:#3fb68e;
-      style PSIA-Alpine fill:#596468;
-      style Alpine-Level-1 fill:#9ea8ad;
-      style Alpine-Level-2 fill:#9ea8ad;
-      style Senior fill:#f5b04d;
+      style PSIA-Alpine fill:#a4650a;
+      style Alpine-Level-1 fill:#f29b1d;
+      style Alpine-Level-2 fill:#f29b1d;
+      style Senior fill:#9ea8ad;
       style Senior-Evaluator fill:#f99494;
 ```
