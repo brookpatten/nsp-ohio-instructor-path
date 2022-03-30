@@ -94,5 +94,5 @@
       style Alpine-Level-1 fill:#0066ff;
       style Alpine-Level-2 fill:#0066ff;
       style Senior fill:#00cc66;
-      style Senior-Evaluator fill:#cc99ff;
+      style Senior-Evaluator fill:#ffcc00;
 ```
