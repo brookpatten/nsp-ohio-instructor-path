@@ -82,17 +82,17 @@
       TTW --> C((Toboggan Trainer));
       end
       
-      style Toboggan fill:#cc0000;
+      style Toboggan fill:#ef8d5d;
       style Senior-Evaluator fill:#f9f;
-      style PSIA-Telemark fill:#0099ff;
-      style Telemark-Level-1 fill:#0066ff;
-      style Telemark-Level-2 fill:#0066ff;
-      style PSIA-Snowboard fill:#0099ff;
-      style Snowboard-Level-1 fill:#0066ff;
-      style Snowboard-Level-2 fill:#0066ff;
-      style PSIA-Alpine fill:#0099ff;
-      style Alpine-Level-1 fill:#0066ff;
-      style Alpine-Level-2 fill:#0066ff;
-      style Senior fill:#00cc66;
-      style Senior-Evaluator fill:#ffcc00;
+      style PSIA-Telemark fill:#1866b4;
+      style Telemark-Level-1 fill:#74abe2;
+      style Telemark-Level-2 fill:#74abe2;
+      style PSIA-Snowboard fill:#03734d;
+      style Snowboard-Level-1 fill:#3fb68e;
+      style Snowboard-Level-2 fill:#3fb68e;
+      style PSIA-Alpine fill:#596468;
+      style Alpine-Level-1 fill:#9ea8ad;
+      style Alpine-Level-2 fill:#9ea8ad;
+      style Senior fill:#f5b04d;
+      style Senior-Evaluator fill:#f99494;
 ```
