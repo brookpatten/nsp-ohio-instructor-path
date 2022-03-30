@@ -82,7 +82,7 @@
       TTW --> C((Toboggan Trainer));
       end
       
-      style Toboggan fill:#f9f;
+      style Toboggan fill:##cc0000;
       style Senior-Evaluator fill:#f9f;
       style PSIA-Telemark fill:#0099ff;
       style Telemark-Level-1 fill:#0066ff;
