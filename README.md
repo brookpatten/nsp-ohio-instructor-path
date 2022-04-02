@@ -18,7 +18,8 @@
       IA --> M(Shadowing);
       M --> SRI((NSP Ski/Ride Instructor));
       
-      subgraph PSIA-Alpine
+      subgraph PSIA
+      subgraph Alpine
       subgraph Alpine-Level-1
       L1W(Level 1 eLearning Course) --> L1E(Level 1 Ski/Teach Exam);
       L1E --> L1C((Level 1));
@@ -33,7 +34,7 @@
       end
       end
       
-      subgraph PSIA-Snowboard
+      subgraph Snowboard
       subgraph Snowboard-Level-1
       BL1W(Level 1 eLearning Course) --> BL1E(Level 1 Ride/Teach Exam);
       BL1E --> BL1C((Level 1));
@@ -47,7 +48,7 @@
       end
       end
 
-      subgraph PSIA-Telemark
+      subgraph Telemark
       subgraph Telemark-Level-1
       TL1W(Level 1 eLearning Course) --> TL1E(Level 1 Ski/Teach Exam);
       TL1E --> TL1C((Level 1));
@@ -57,6 +58,8 @@
       TL2W(Level 2 Written Exam) --> TL2T(Level 2 Teach/MA/Ski Exam);
       TL2T --> TL2C((Level 2));
       end
+      end
+      
       end
       
       
@@ -82,15 +85,16 @@
       TTW --> C((Toboggan Trainer));
       end
       
+      style PSIA fill:#9ea8ad;
       style Toboggan fill:#ef8d5d;
       style Senior-Evaluator fill:#f9f;
-      style PSIA-Telemark fill:#1866b4;
+      style Telemark fill:#1866b4;
       style Telemark-Level-1 fill:#74abe2;
       style Telemark-Level-2 fill:#74abe2;
-      style PSIA-Snowboard fill:#03734d;
+      style Snowboard fill:#03734d;
       style Snowboard-Level-1 fill:#3fb68e;
       style Snowboard-Level-2 fill:#3fb68e;
-      style PSIA-Alpine fill:#a4650a;
+      style Alpine fill:#a4650a;
       style Alpine-Level-1 fill:#f29b1d;
       style Alpine-Level-2 fill:#f29b1d;
       style Senior fill:#9ea8ad;
