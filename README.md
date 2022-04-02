@@ -77,14 +77,6 @@
       SH --> SS;
       end
       
-      // IA --> MA(Mentor Assigned);
-      // subgraph Toboggan
-      // MA --> OE(Observed and Evaluated with Mentor 2X);
-      // OE --> IT(Observed and Evaluated by Area IT);
-      // IT --> TTW(Observed teaching a TTW or TES );
-      // TTW --> C((Toboggan Trainer));
-      // end
-      
       style PSIA fill:#9ea8ad;
       style Toboggan fill:#ef8d5d;
       style Senior-Evaluator fill:#f9f;
@@ -100,3 +92,11 @@
       style Senior fill:#9ea8ad;
       style Senior-Evaluator fill:#f99494;
 ```
+<!--
+// IA --> MA(Mentor Assigned);
+      // subgraph Toboggan
+      // MA --> OE(Observed and Evaluated with Mentor 2X);
+      // OE --> IT(Observed and Evaluated by Area IT);
+      // IT --> TTW(Observed teaching a TTW or TES );
+      // TTW --> C((Toboggan Trainer));
+      // end-->
