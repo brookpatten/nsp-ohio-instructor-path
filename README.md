@@ -78,7 +78,6 @@
       end
       
       style PSIA fill:#9ea8ad;
-      style Toboggan fill:#ef8d5d;
       style Senior-Evaluator fill:#f9f;
       style Telemark fill:#1866b4;
       style Telemark-Level-1 fill:#74abe2;
@@ -93,10 +92,12 @@
       style Senior-Evaluator fill:#f99494;
 ```
 <!--
+// style Toboggan fill:#ef8d5d;
 // IA --> MA(Mentor Assigned);
-      // subgraph Toboggan
-      // MA --> OE(Observed and Evaluated with Mentor 2X);
-      // OE --> IT(Observed and Evaluated by Area IT);
-      // IT --> TTW(Observed teaching a TTW or TES );
-      // TTW --> C((Toboggan Trainer));
-      // end-->
+// subgraph Toboggan
+// MA --> OE(Observed and Evaluated with Mentor 2X);
+// OE --> IT(Observed and Evaluated by Area IT);
+// IT --> TTW(Observed teaching a TTW or TES );
+// TTW --> C((Toboggan Trainer));
+// end
+-->
