@@ -33,6 +33,7 @@
       L2S --> L2C;
       end
       end
+      click L1W "https://lms.thesnowpros.org/product/alpine-level-i-professional-knowledge-exam-cen/" "Level 1 Written Exam"
       
       subgraph Snowboard
       subgraph Snowboard-Level-1
